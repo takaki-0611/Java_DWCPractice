@@ -1,4 +1,4 @@
-package car;
+package classMethod;
 
 public class Chapter09 {
   public static void main(String[] args) {
